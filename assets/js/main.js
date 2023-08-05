@@ -39,6 +39,6 @@ hour.innerHTML = h;
 minutes.innerHTML = m;
 seconds.innerHTML = s;
 
-var am = h >= 12 ? "PM" : "AM;"
+var am = h >= 12 ? "PM" : "AM";
 ampm.innerHTML = am
 });
